@@ -1,0 +1,17 @@
+{
+  "name": "siarkowodor/db-model-api",
+  "type": "library",
+  "description": "",
+  "authors": [
+    {
+      "name": "siarko",
+      "email": "labroqu@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-0": {
+      "DbModelApi": "src/"
+    }
+  }
+}
