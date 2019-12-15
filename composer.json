@@ -10,7 +10,9 @@
     }
   ],
   "minimum-stability" : "dev",
-  "require": {},
+  "require": {
+    "siarkowodor/sql-creator": "*"
+  },
   "autoload": {
     "psr-0": {
       "DbModelApi": "src/"

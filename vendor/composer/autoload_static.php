@@ -7,6 +7,13 @@ namespace Composer\Autoload;
 class ComposerStaticInit3f0b902d7319657be2d74ab16aab51c4
 {
     public static $prefixesPsr0 = array (
+        's' => 
+        array (
+            'sqlCreator' => 
+            array (
+                0 => __DIR__ . '/..' . '/siarkowodor/sql-creator/src',
+            ),
+        ),
         'D' => 
         array (
             'DbModelApi' => 

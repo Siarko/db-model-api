@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'sqlCreator' => array($vendorDir . '/siarkowodor/sql-creator/src'),
     'DbModelApi' => array($baseDir . '/src'),
 );

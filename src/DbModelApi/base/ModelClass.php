@@ -8,7 +8,6 @@
 
 namespace DbModelApi\base;
 
-use DbMainContext\DbContext;
 use DbModelApi\exceptions\ColumnsNotSetException;
 use DbModelApi\exceptions\ModelNoColumnException;
 use DbModelApi\interfaces\IModel;
