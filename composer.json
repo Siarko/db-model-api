@@ -1,6 +1,7 @@
 {
   "name": "siarkowodor/db-model-api",
   "type": "library",
+  "version": "0.1",
   "description": "",
   "authors": [
     {
