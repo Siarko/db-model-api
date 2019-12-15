@@ -9,7 +9,6 @@
       "email": "labroqu@gmail.com"
     }
   ],
-  "minimum-stability" : "dev",
   "require": {
     "siarkowodor/sql-creator": "*"
   },
